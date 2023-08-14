@@ -3,5 +3,3 @@ node_modules/
 cypress/plugins
 cypress/support
 cypress/videos
-
-cypress.config.js
