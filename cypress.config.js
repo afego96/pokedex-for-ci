@@ -1,3 +1,3 @@
 export default {
-  "videos": false
+  'videos': false
 }
